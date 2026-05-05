@@ -1,0 +1,16 @@
+streamlit
+numpy
+pandas
+opencv-python
+matplotlib
+plotly
+scikit-learn
+torch
+torchvision
+tensorflow
+moviepy
+mediapipe
+librosa
+soundfile
+imageio
+imageio-ffmpeg
